@@ -4,15 +4,15 @@ title: Yuanhong Song's CV
 ---
 
 # Yuanhong Song
+864-650-7200 | yuanhong.song@wsu.edu
 
-
-## Summary
+## SUMMARY
 - Current MS student/ research assistant in statistics and soil science working on precision agriculture;
 - Strong quantitative skills with R and Python, experienced in predictive modeling and geospatial analysis;
 - Effective communication and teamwork experiences.
 
-## SKILLS
-- software
+## TECHNICAL SKILLS
+
   - R
   - Python
   - SAS
@@ -23,26 +23,17 @@ title: Yuanhong Song's CV
   - SAGA GIS
   - Power Map
   - Microsoft Office
-- Quantitative Methods
-  - Linear Modles
-  - GLM
-  - Time series
-  - Computational Statistics
-  - Kriging
-  - Geospatial analysis
-  - Rest API
-- Specialties
+  
+## Specialties Specialties
+
+  - Statistics
+  - Generalized Liner Models (GLM)
   - Remote Sensing
   - Proximal Sensing
+  - Image analysis
   - GIS
   - Geospatial
-- Soft Skills
-  - Public Speaking
-  - Research and report
-  - Communication
-  - Collaboration
-  - Teaching and Training
-  - Fast learner
+
 
 
 ## EDUCATION
@@ -51,7 +42,7 @@ title: Yuanhong Song's CV
   **M.S., Statistics**, *Washington State University*, Pullman, WA, USA
 
 `2014-2017`
-  **M.S., Soil Science**,*Washington State University*, Pullman, WA, USA
+  **M.S., Soil Science**, *Washington State University*, Pullman, WA, USA
 
 `2007-2011`
   **B.S., Natural Resources and Environmental Sciences**, *China Agricultural University*, Beijing, China
@@ -78,17 +69,17 @@ title: Yuanhong Song's CV
   - Assure effective connection between students and course instructor
 
 `2011.07 – 2013.07`
-**Research Assistant**, *China Agricultural University*, 2011.07 – 2013.07
-  - Operated and maintained the Sewage Bio-purifying System
-  - Measured and monitored purified water quality and provide weekly report
+**Research Assistant**, *China Agricultural University*, Beijing, China
+  - Operated and maintained the sewage bio-purifying system for biochemistry research
+  - Provide weekly report
 
-
-- Undergraduate Research Assistant, China Agricultural University, 2008.06 – 2011.06
+`2008.06 – 2011.06`
+**Undergraduate Research Assistant**, *China Agricultural University*, Beijing, China
   - Conducted site location decision analysis using geospatial techniques for an orchard in suburban area of Beijing, China
   - Analysis and compare chemical properties of three different kinds of biochars
 
-
-- Internship, Beijing Puren Ecological Technology Co., Ltd.,  2008.06-2009.04
+`2008.06-2009.04`
+**Internship**, *Beijing Puren Ecological Technology Co., Ltd.*,  2008.06-2009.04
    - Monitored microbial biomass dynamic in a eutrophic waterbody in Daoxiang Lake, Beijing
    - Developed weekly biomass monitoring reports with pre-analyzed data for further water quality analysis
 
