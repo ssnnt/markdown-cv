@@ -23,7 +23,7 @@ title: Yuanhong Song's CV
   - SAGA GIS
   - Power Map
   - Microsoft Office
-  
+
 ## Specialties Specialties
 
   - Statistics
@@ -88,8 +88,8 @@ title: Yuanhong Song's CV
 
 
 
-#### Community Services & Volunteering
-- Apartment Coordinator, Washington State University, 2015.03 – 2017.08
+## Community Services & Volunteering
+**Apartment Coordinator**, *Washington State University*, 2015.03 – 2017.08
  - Served as the Apartment Coordinator (AC) for the 99-household community, which main residents are graduate students and students with families
  - Managed the community, solve the resident needs, design and develop community programs, communicate between residents and the Housing Department
  - Served as the committee chair of the AC Recruiting and Training Board (5 committees on board). Coordinated three recruitments
@@ -97,7 +97,7 @@ title: Yuanhong Song's CV
 
 
 
-- Volunteer, Heifer International (Non-Profit Organization), 2010.01 – 2013.01
+**Volunteer**, *Heifer International (Non-Profit Organization)*, 2010.01 – 2013.01
   - Taught advanced agricultural technique among local farmers
   - Conducted surveys among farmers and local government, and provided feedback information for Heifer organization for project development.
 
@@ -112,4 +112,3 @@ title: Yuanhong Song's CV
 
 `2015`
 **Lindahl Memorial Scholarship**, Washington State University      2015
-
