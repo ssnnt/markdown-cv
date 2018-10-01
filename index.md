@@ -1,91 +1,124 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Yuanhong Song's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# Yuanhong Song
 
 
-## Currently
+## Summary
+- Current MS student/ research assistant in statistics and soil science working on precision agriculture;
+- Strong quantitative skills with R and Python, experienced in predictive modeling and geospatial analysis;
+- Effective communication and teamwork experiences.
 
-Standing on the shoulders of giants
+## SKILLS
+- software
+  - R
+  - Python
+  - SAS
+  - Matlab
+  - ArcGIS
+  - QGIS
+  - Google Earth Engine
+  - SAGA GIS
+  - Power Map
+  - Microsoft Office
+- Quantitative Methods
+  - Linear Modles
+  - GLM
+  - Time series
+  - Computational Statistics
+  - Kriging
+  - Geospatial analysis
+  - Rest API
+- Specialties
+  - Remote Sensing
+  - Proximal Sensing
+  - GIS
+  - Geospatial
+- Soft Skills
+  - Public Speaking
+  - Research and report
+  - Communication
+  - Collaboration
+  - Teaching and Training
+  - Fast learner
 
-### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## EDUCATION
+
+`In progress`
+  **M.S., Statistics**, *Washington State University*, Pullman, WA, USA
+
+`2014-2017`
+  **M.S., Soil Science**,*Washington State University*, Pullman, WA, USA
+
+`2007-2011`
+  **B.S., Natural Resources and Environmental Sciences**, *China Agricultural University*, Beijing, China
+
+## EXPERIENCE
+
+`2017. 05 – present`
+**Research Assistant**, *Washington State University*, Pullman, WA, USA
+  - Analysis spatial and temporal characteristics of crop NDVI at regional scale;
+  - Derive spatial-temporal features from remote sensing image for GWAS analysis;
 
 
-### Research interests
+`2014. 08 – 2017.05`
+**Research Assistant**, *Washington State University*, Pullman, WA, USA
+  - Modeled the spatial variability of soil carbon concentration at field scale using terrain model (GIS) and generalized linear model (GLM) with soil visible-near-infrared (visNIR) proximal sensing technology;
+  - Created high resolution soil carbon maps in three-dimensions for soil monitoring and hydrological modeling;
+  - Provided evidence for promoting conservative farming and climate-friendly precision farm management.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`2015. 08 – 2018.05`
+**Teaching Assistant**, *Washington State University*, Pullman, WA, USA
+  - Instruct computer lab for coding (R) and software applications (ArcGIS and QGIS)
+  - Address students’ problems and needs on a one-on-one basis
+  - Follow-up and provide constant feedback to encourage improvement and success
+  - Assure effective connection between students and course instructor
+
+`2011.07 – 2013.07`
+**Research Assistant**, *China Agricultural University*, 2011.07 – 2013.07
+  - Operated and maintained the Sewage Bio-purifying System
+  - Measured and monitored purified water quality and provide weekly report
 
 
-## Education
+- Undergraduate Research Assistant, China Agricultural University, 2008.06 – 2011.06
+  - Conducted site location decision analysis using geospatial techniques for an orchard in suburban area of Beijing, China
+  - Analysis and compare chemical properties of three different kinds of biochars
 
-`1654-1660`
-__The King's School, Grantham.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Internship, Beijing Puren Ecological Technology Co., Ltd.,  2008.06-2009.04
+   - Monitored microbial biomass dynamic in a eutrophic waterbody in Daoxiang Lake, Beijing
+   - Developed weekly biomass monitoring reports with pre-analyzed data for further water quality analysis
 
-- Sizar
 
-`1667 - death`
-__Trinity College, Cambridge__
 
-- Fellow
 
+
+
+#### Community Services & Volunteering
+- Apartment Coordinator, Washington State University, 2015.03 – 2017.08
+ - Served as the Apartment Coordinator (AC) for the 99-household community, which main residents are graduate students and students with families
+ - Managed the community, solve the resident needs, design and develop community programs, communicate between residents and the Housing Department
+ - Served as the committee chair of the AC Recruiting and Training Board (5 committees on board). Coordinated three recruitments
+ - Trained new Apartment Coordinators
+
+
+
+- Volunteer, Heifer International (Non-Profit Organization), 2010.01 – 2013.01
+  - Taught advanced agricultural technique among local farmers
+  - Conducted surveys among farmers and local government, and provided feedback information for Heifer organization for project development.
+
+
+- Technical Director, CAU Radio Station (17 member), CAU,   2009.10-2010.12
+
+
+- Department Head of the College Student Union Outreach Division, CAU,   2008.01-2008.12
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
+`2015`
+**Lindahl Memorial Scholarship**, Washington State University      2015
 
