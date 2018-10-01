@@ -3,7 +3,7 @@ markdown-cv
 
 A curriculum vitae maintained in plain text and rendered to html and pdf using CSS.
 
-For more details see the [original project page](http://elipapa.github.io/markdown-cv) or the blog post on [why I switched to markdown for my CV by the author Eliseo Papa](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+For instructions and more details please see the [original project page](http://elipapa.github.io/markdown-cv) or the blog post [by Eliseo Papa (why I switched to markdown for my CV)](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
 
 ***
 
